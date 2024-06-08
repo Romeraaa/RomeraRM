@@ -1,7 +1,7 @@
 # Adrian Romera Mayol
 
 
-# Hola soy Romera, tengo 19 años y soy Administrador de Sistemas :D
+ Hola soy Romera, tengo 19 años y soy Administrador de Sistemas :D
 
 
 ## #30NitesOfCode:
